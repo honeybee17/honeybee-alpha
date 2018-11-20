@@ -6,6 +6,6 @@ You can view Honeybee issues and add your own if you like.
 
 Contact Team Honeybee at: <team@honeybee17.com>
 
-Thanks.
+Thanks. Honeybee!
 
-Honeybee!
+[Honeybee logo](https://github.com/honeybee17/honeybee-alpha/blob/master/honeybee_logo_small.png)
