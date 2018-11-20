@@ -8,4 +8,4 @@ Contact Team Honeybee at: <team@honeybee17.com>
 
 Thanks. Honeybee!
 
-[Honeybee logo](https://github.com/honeybee17/honeybee-alpha/blob/master/honeybee_logo_small.png)
+![Honeybee logo](https://github.com/honeybee17/honeybee-alpha/blob/master/honeybee_logo_small.png)
